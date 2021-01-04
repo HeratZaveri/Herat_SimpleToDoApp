@@ -39,7 +39,7 @@ Testing using the virtual device and getting the app to run on it
 
 ## License
 
-    Copyright [2020] [Herat Zaveri]
+    Copyright [2021] [Herat Zaveri]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
